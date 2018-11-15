@@ -15,8 +15,8 @@ from scipy.stats import kde
 Data to gather: 
 '''
 USERAGENT = 'web:PeskyStatsBot:v1.0 (by ',u',ThePeskyWabbit)'
-IMGUR_ID = '60a5ba1e95afc6a'
-IMGUR_SECRET = '6975c23826a7f4f54885b1c352aa9610573f9655'
+IMGUR_ID = 
+IMGUR_SECRET = 
 
 DEFAULT_SUBS = ['announcements','Art','AskReddit','askscience','aww','blog','books','creepy','dataisbeautiful','DIY',
 'Documentaries','EarthPorn','explainlikeimfive','food','funny','Futurology','gadgets','gaming','GetMotivated','gifs',
